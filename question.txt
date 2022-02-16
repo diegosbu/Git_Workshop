@@ -1,1 +1,5 @@
 Question: What makes you excited about programming?
+Answer: The ability to use logical problem solving through code.
+
+Question: What is your favorite animal and why?
+Answer: Killer orcas because they look like sea pandas.
